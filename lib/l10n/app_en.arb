@@ -1,0 +1,16 @@
+{
+    "to_do_list" : "To Do List",
+    "enter_task_title" : "Enter Task Title",
+    "enter_task_description" : "Enter Task Description",
+    "select_data" : "Select Data",
+    "add" : "Add",
+    "task_list" : "Task List",
+    "add_new_task" : "Add New Task",
+    "settings" : "settings",
+    "language" : "Language",
+    "arabic" : "Arabic",
+    "english" : "English",
+    "theme" : "Themeing",
+    "light" : "Light",
+    "dark" : "Dark"
+}

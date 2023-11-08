@@ -1,0 +1,16 @@
+{
+    "to_do_list" : "قائمة المهام",
+    "enter_task_title" : "ادخل عنوان المهه",
+    "enter_task_description" : "ادخل وصف المهه",
+    "select_data" : "حدد التاريخ",
+    "add" : "اضافة",
+    "task_list" : "قائمة المهه",
+    "add_new_task" : "اضافة مهمه جديدة",
+    "settings" : "الاعدادات",
+    "language" : "اللغة",
+    "arabic" : "اللغة العربية",
+    "english" : "اللغة الاجنبية",
+    "theme" : "النمط",
+    "light" : "مضيء",
+    "dark" : "مظلم"
+}
